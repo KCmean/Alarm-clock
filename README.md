@@ -1,5 +1,5 @@
 # Alarm-clock ⏰
-## A simple alarm clock made with Javascript and its basic inbuilt functions like gethours and play
+## An alarm clock made with Javascript, HTML and CSS by using basic inbuilt functions like gethours and play of JS and simple HTML and CSS
 Its Just For Fun But Its Good
 
 ### also we have kokushibo's voice here 😋
